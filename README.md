@@ -1,5 +1,5 @@
 To run the project please run VPN in Syria
-https://aymanmohammedgo.github.io/quotes
+https://aymanmohammedgo.github.io/Quotes_Great/
 
 
 
